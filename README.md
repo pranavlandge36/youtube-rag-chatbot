@@ -159,7 +159,7 @@ Implemented fallback mechanisms, optimized retrieval workflows, improved deploym
 
 ### Watch Project Demonstration
 
-[▶ Watch Demo Video](YOUR_YOUTUBE_VIDEO_LINK)
+[▶ Watch Demo Video](https://youtu.be/EuAY_pLT9EU)
 
 ---
 
